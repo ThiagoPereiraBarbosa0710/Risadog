@@ -1,0 +1,11 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\Projetos\Risadog\Risadog\bin\Debug\Risadog.exe.config
+C:\Users\thiag\OneDrive\Área de Trabalho\Projetos\Risadog\Risadog\bin\Debug\Risadog.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Projetos\Risadog\Risadog\bin\Debug\Risadog.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Projetos\Risadog\Risadog\obj\Debug\Risadog.csprojAssemblyReference.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Projetos\Risadog\Risadog\obj\Debug\Risadog.Properties.Resources.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Projetos\Risadog\Risadog\obj\Debug\Risadog.csproj.GenerateResource.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Projetos\Risadog\Risadog\obj\Debug\Risadog.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Projetos\Risadog\Risadog\obj\Debug\Risadog.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Projetos\Risadog\Risadog\obj\Debug\Risadog.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Projetos\Risadog\Risadog\obj\Debug\Risadog.F_Login.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Projetos\Risadog\Risadog\obj\Debug\Risadog.F_Home.resources
